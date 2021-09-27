@@ -1,6 +1,12 @@
 # cc42_tf_201819883_20171b498
 # Trabajo Parcial de Complejidad Algoritmica
+El trabajo parcial consiste en resolver el problema de enrutamiento de vehículos o VRP, en su versión para múltiples puntos de distribución.
 
+Video explicativo
+
+El objetivo es buscar un balance entre el tiempo y costo de entrega. Un ejemplo del problema es el caso de los supermercados, los cuales reciben pedidos por su aplicación web o móvil, luego deben planificar la distribución considerando minimizar el costo de operación de los vehículos y el tiempo de distribución ya que a mayor demora en el tiempo de entrega, menor satisfacción por parte de sus clientes lo cual puede significar una pérdida por perder clientes desatisfechos.
+
+Para simplificar el problema se plantea que la ciudad donde se distribuye tiene una distribución perfectamente rectangular, similar a la ciudad de Manhattan.
 # Integrantes
 
 - Luciano Mardonio Lopez Duran    U201819883
