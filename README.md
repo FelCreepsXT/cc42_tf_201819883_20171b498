@@ -3,8 +3,9 @@
 
 # Integrantes
 
--Luciano Mardonio Lopez Duran    U201819883
--Sebastian Hernandez Tuesta      U20171B498
+- Luciano Mardonio Lopez Duran    U201819883
+- Sebastian Hernandez Tuesta      U20171B498
+
 
 # Programas Utilizados
 
