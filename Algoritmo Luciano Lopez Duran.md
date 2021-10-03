@@ -7,7 +7,9 @@ Algoritmo A* es un algoritmo que tambien es conocido como el algoritmo de busque
 g(n) representa la funcion del costo acumulado
 h(n) representa la funcion del costo de la heuristica
 
-Como dentro del proyecto debemos elaborar el camino menos costos con un menor tiempo de demora. Entonce, se tomara que h(n) tomara el valor del costo de distancia. Por otra parte, g(n) tomara el valor del tiempo para poder priorizar el envio. Por ello, se decidio utilizar para el proyecto el algoritmo A*, ya que nos ayuda a detectar el camino mas corto como tambien a un tiempo estimado. Este algoritmo posee la logica de el coste unitario.
+Como dentro del proyecto debemos elaborar el camino menos costos con un menor tiempo de demora. Entonce, se tomara que h(n) como la **suposicion** de los caminos para poder determinar la heuristica y asi poder encontrar un recorrido menor. Esto se hara con los puntos finales de los lugares de entrega menos las posiciones inciales y asi asignar una h(n) a cada nodo. Por otra parte, g(n) tomara el valor del tiempo para poder priorizar el envio. Por ello, se decidio utilizar para el proyecto el algoritmo A*, ya que nos ayuda a detectar el camino mas corto como tambien a un tiempo estimado. Este algoritmo posee la logica de el coste unitario.
+
+Este algoritmo tiene una complejidad de **O(n^2)**
 
 ## Funcionalidad
 
@@ -21,7 +23,11 @@ El algoritmo tiene la funcionalidad de agregar en un arreglo todos los caminos p
 [![flujo.png](https://i.postimg.cc/QxNj2B2g/flujo.png)](https://postimg.cc/F1qtcKs1)
 
 
-## Pseudocodigo con un solo recorrido
+## Pseudocodigo con un solo recorrido Coste Uniforme
+
+**¿Utilidad?** 
+
+Su utilidad sera a futuro cuando se implemente con la heuristica y asi tener un algoritmo mas eficiente.
 
 **Dato usado de ejemplo era:** 
 G = [
