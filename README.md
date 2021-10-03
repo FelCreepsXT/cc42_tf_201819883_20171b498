@@ -29,9 +29,8 @@ Este proyecto nos ayuda a entender como es la correcta funcionalidad de los algo
 
 # Milestones
 - Milestone 1: Trabajo parcial (semana 7 sesion 2)
-  - Actualizar lista de integrantes
   - Preparar listas de tares para la aprobacion del profesor
-  - Tarea 1
+  - Tarea 1: Elaboracion del DataSet
   - Tarea 2
   - ...
   - Presentacion
