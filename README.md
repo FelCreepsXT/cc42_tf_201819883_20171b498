@@ -23,16 +23,26 @@ Para simplificar el problema se plantea que la ciudad donde se distribuye tiene 
 
 Los algoritmos elaborados se basan en buscar el camino menos costoso para una empresa de reparto. Por ello, debemos encontrar el camino mas corto y su ejecucion debe ser rapida.
 
+# Video Explicativo
+
+Link: 
+
 # Conclusion
 
 Este proyecto nos ayuda a entender como es la correcta funcionalidad de los algoritmos de busquedas como el grafo. Además, nos ayudo a poder trabajar grupalmente, ya que estuvimos apoyandonos mutuamente, pero elaboramos distintos algoritmos de busqueda para que cada uno pueda desarrollas y asi demostar que cada integrante es capaz de solucionar un problema determinado y optimizando busquedas.
 
-# Milestones
+# Reporte del grupo actualizado hasta el milestone 1
 - Milestone 1: Trabajo parcial (semana 7 sesion 2)
   - Preparar listas de tares para la aprobacion del profesor
-  - Tarea 1: Elaboracion del DataSet
-  - Tarea 2
-  - ...
+  - Tarea 1: Reunion del grupo para poder definir los algoritmos y arreglar el repositorio de GitHub **Cumplido**
+  - Tarea 2: El grupo se volvio a reunir para poder coordinar y no repetir los algoritmos a utlizar **Cumplido**
+  - Tarea 3: Luciano se encargo de definir el espacio de busqueda **Cumplido**
+  - Tarea 4: Luciano se encargo de elaborar el dataset **Cumplido**
+  - Tarea 5: Luciano se encargo csv del almacen.csv **Cumplido**
+  - Tarea 6: Sebastian se encargo del csv de los puntos_entrega.csv **Cumplido**
+  - Tarea 7: Sebastian se de elaborar el manejo de costos de los vehiculos **Cumplido**
+  - Tarea 8: Luciano implemento la description y funcionamiento del Algoritmo A* **Cumplido**
+  - Tarea 9: Sebastian implemento la description y funcionamiento del Algoritmo () **Cumplido**
   - Presentacion
 - Milestone 2: Hito 1 TF (semana 9 sesion 2)
 - Milestone 3: Hito 2 TF (semana 11 sesion 2)
