@@ -13,10 +13,8 @@ Este algoritmo tiene una complejidad de **O(n^2)**
 
 ## Funcionalidad
 
-El algoritmo tiene la funcionalidad de agregar en un arreglo todos los caminos posibles que este puede posseer. Luego, agregamos todos los caminos son agregados a una lista abierta. Además, cuando se agrega a la lista cerrada ningun nodo puede volver a recorrer el camino nuevamente. Dentro de esta lista realizamos un reordenamiento de los caminos partiendo del costo del **camino + tiempo**. Posterior a ello, obtenemos el primer valor el cual tiene el menor costo del camino. Al utilizar este camino nosotros debemos volver a realizar la busqueda de caminos asociados nuevamente, pero esta vez actualizando la lista, ya que el primer camino que escogimos paso una lista cerrada. Por ello, se debe volver a agregar los nuevos nodos respectivos a los que el nodo anterior se dirigia. Esta logica se usa durante todo el transcurso hasta encontrar el camino. Cuando un nodo llege al puntos destino no quiere decir que directamente nos devuelva el valor. Este debe seguir la logica que se establecio desde el inicio, ya que si bien puede haber encontrar el camino este debe esperar en la lista hasta que este se encuentre en la posicion 0 del arreglo de importancia.
+El algoritmo tiene la funcionalidad de agregar en un arreglo todos los caminos posibles que este puede posseer. Luego, agregamos todos los caminos son agregados a una lista abierta. Además, cuando se agrega a la lista cerrada ningun nodo puede volver a recorrer el camino visitado nuevamente. Dentro de esta lista realizamos un reordenamiento de los caminos partiendo del costo del **camino + tiempo**. Posterior a ello, obtenemos el primer valor el cual tiene el menor costo del camino. Al utilizar este camino nosotros debemos volver a realizar la busqueda de caminos asociados nuevamente, pero esta vez actualizando la lista, ya que el primer camino que escogimos paso una lista cerrada. Por ello, se debe volver a agregar los nuevos nodos respectivos a los que el nodo anterior se dirigia. Esta logica se usa durante todo el transcurso hasta encontrar el camino. Cuando un nodo llege al puntos destino no quiere decir que directamente nos devuelva el valor. Este debe seguir la logica que se establecio desde el inicio, ya que si bien puede haber encontrar el camino este debe esperar en la lista hasta que este se encuentre en la posicion 0 del arreglo de importancia.
 
-
-**
 
 ## Diagrama de Flujo
 
@@ -27,7 +25,7 @@ El algoritmo tiene la funcionalidad de agregar en un arreglo todos los caminos p
 
 **¿Utilidad?** 
 
-Su utilidad sera a futuro cuando se implemente con la heuristica y asi tener un algoritmo mas eficiente.
+Su utilidad sera a futuro cuando se implemente con la heuristica y asi tener un algoritmo mas eficiente, ya que al implementar el Algoritmo A*. Este necesitara el algoritmo de costo minimo.
 
 **Dato usado de ejemplo era:** 
 G = [
