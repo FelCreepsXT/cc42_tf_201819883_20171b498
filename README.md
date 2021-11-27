@@ -22,8 +22,11 @@ Para simplificar el problema se plantea que la ciudad donde se distribuye tiene 
 Los algoritmos elaborados se basan en buscar el camino menos costoso para una empresa de reparto. Por ello, debemos encontrar el camino mas corto y su ejecucion debe ser rapida.
 
 # Video Explicativo
-
+## Video Parcial
 Link: <https://www.youtube.com/watch?v=4Owr1A1HKDE>
+
+## Video Final
+Link: <https://www.youtube.com/watch?v=Ve0UoklFwuM>
 
 # Conclusion
 
