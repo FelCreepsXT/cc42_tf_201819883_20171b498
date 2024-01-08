@@ -23,10 +23,13 @@ Los algoritmos elaborados se basan en buscar el camino menos costoso para una em
 
 # Video Explicativo
 ## Video Parcial
-Link: <https://www.youtube.com/watch?v=4Owr1A1HKDE>
+Link: <https://www.youtube.com/watch?v=4Owr1A1HKDE> **(CAIDO)**
 
 ## Video Final
-Link: <https://www.youtube.com/watch?v=Ve0UoklFwuM>
+Link: <https://www.youtube.com/watch?v=Ve0UoklFwuM> **(CAIDO)**
+
+## Video Actual
+Link: <https://www.youtube.com/watch?v=Ve0UoklFwuM](https://youtu.be/0WwITdu1dNs>
 
 # Conclusion
 
